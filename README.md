@@ -6,7 +6,7 @@
 |----|----|
 |名前|上出 和馬 (ウエデ カズマ)|
 |所在地|東京都 太田区|
-|Twitter|[@PAmatsuti](https://twitter.com/poly_soft) ()|
+|Twitter|[@PAmatsuti](https://twitter.com/PAmatsuti) ()|
 |ポートフォリオ|準備中|
 
 ## 概要
